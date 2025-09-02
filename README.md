@@ -1,0 +1,2 @@
+# GARBAGE-MANAGEMENT-SYSTEM
+mini web project
